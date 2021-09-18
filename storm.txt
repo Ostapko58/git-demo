@@ -3,6 +3,13 @@ Riding the northern wind
 They left their shores at early dawn
 As a red sun was rising in the east
 
+<<<<<<< HEAD
 
 
 все удаляжмо і пробуємо
+=======
+ocme to me
+jhoasdfjkhjfashjksadhjkasd
+daskjnhfasjlkhdhjas
+dashkjdhjlashjdkakjhsdhkjas
+>>>>>>> parent of 7dbaec6 (maybe tak)
